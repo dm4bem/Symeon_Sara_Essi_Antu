@@ -3,4 +3,4 @@ Sara Toppi
 Essi Rissanen
 Syméon Taupiac
 Antu Mondal
-https://mybinder.org/v2/gh/Symeon81/BE_house_modeling/HEAD
+https://mybinder.org/v2/gh/dm4bem/Symeon_Sara_Essi_Antu/HEAD
